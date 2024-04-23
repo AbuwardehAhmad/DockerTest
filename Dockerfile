@@ -1,4 +1,4 @@
-                                                                                               Dockerfile                                                                                                                  
+                                                                                                                                                                 
 ARG VERSION=18.04
 
 FROM ubuntu:${VERSION}
